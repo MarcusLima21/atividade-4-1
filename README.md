@@ -1,7 +1,6 @@
 # Atividade 4
 
 - Implementar uma classe que seja capaz de simular atuação dos modificadores de acesso e respectivamente os métodos getters/setters: 
-- Acesse o Link: https://github.com/UMC3SI/atv3.git
 - Crie uma Branch utilizando o seu RGM como identificador;
 - Implemente a Classe Corpo Humano e o Construtor  
 - Implemente os métodos Getters
